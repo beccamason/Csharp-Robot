@@ -1,0 +1,11 @@
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\bin\Release\netcoreapp2.1\ButterBot.deps.json
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\bin\Release\netcoreapp2.1\ButterBot.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\bin\Release\netcoreapp2.1\ButterBot.pdb
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\bin\Release\netcoreapp2.1\BotInterface.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\obj\Release\netcoreapp2.1\ButterBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\obj\Release\netcoreapp2.1\ButterBot.AssemblyInfoInputs.cache
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\obj\Release\netcoreapp2.1\ButterBot.AssemblyInfo.cs
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\obj\Release\netcoreapp2.1\ButterBot.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\obj\Release\netcoreapp2.1\ButterBot.dll
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\obj\Release\netcoreapp2.1\ButterBot.pdb
+C:\Users\Rebecca.Mason\Documents\Corndel\Csharp\ButterBot\ButterBot\obj\Release\netcoreapp2.1\ButterBot.csproj.CopyComplete
